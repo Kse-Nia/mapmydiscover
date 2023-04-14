@@ -33,3 +33,12 @@ cd ../frontend && npm install
 ````
 
 4. Configurez la base de données MySQL en modifiant le fichier backend/prisma/.env :
+
+
+
+
+
+## Contribution
+
+Les contributions sont les bienvenues.
+N'hésitez pas à ouvrir des issues ou à soumettre des pull requests.
