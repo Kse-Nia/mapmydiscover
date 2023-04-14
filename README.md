@@ -2,10 +2,12 @@
 
 
 ## Technologies utilisées:
+
 React, PrimeFlex, Typescript
 Node, Express, Prisma, Mysql
 
 ## Fonctionnalités
+
 * Création et authentification des utilisateurs
 * Poster des avis sur les restaurants et boutiques
 * Consulter les avis des autres utilisateurs
